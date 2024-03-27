@@ -1,0 +1,4 @@
+langchain
+transformers
+langchain_core
+python-dotenv
